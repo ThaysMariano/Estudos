@@ -1,0 +1,246 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+    }
+  
+  .Video-Title{
+  
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+  }
+  
+  .Video-Stats{
+   
+   font-size: 14px;
+   color: rgb(96, 96, 96);
+   
+   margin-bottom: 20px;
+  }
+  
+  .Video-Author{
+   
+   font-size: 14px;
+   color:rgb(96, 96, 96); 
+   
+  margin-bottom: 20px;
+  }
+  
+  .Video-Description{
+   
+   font-size: 14px;
+   color: rgb(96, 96, 96);
+  
+   margin-bottom: 20px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+  }
+  
+  .Apple-Text{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+  }
+  
+  .Shop-Now{
+  margin-left: 6px;
+  
+  
+  }
+  .Shop-Now:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .tahoma{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .b1{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  
+  .b2{
+    font-family: Arial;
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(236, 45, 45);
+    margin-bottom: 30px;
+  }
+  
+  .c51{
+    font-family: verdana;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  
+  .c52{
+    font-family: verdana;
+    font-size: 16px;
+    color: rgb(114, 114, 114);
+    margin-bottom: 20px;
+  }
+  
+  .c53{
+  width: 280px;
+  font-family: verdana;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 16px;
+  }
+  
+  .c54{
+    font-family: verdana;
+    color: white;
+    background-color: rgb(29, 151, 29);
+    border-radius: 6px;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+    margin-bottom: 40px;
+    cursor: pointer;
+  }
+  
+  .d51{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  
+  .d52{
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  
+  .d53{
+    font-size: 17px;
+    text-align: center;
+    color: rgb(56, 107, 165);
+    cursor: pointer;
+    margin-bottom: 45px;
+  }
+  
+  .e51{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(233, 141, 20);
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .e52{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(31, 31, 31);
+    margin-bottom: 2px;
+  }
+  
+  .e53{
+    text-align: center;
+    font-size: 38px;
+  color: rgb(31, 31, 31);
+  font-weight:  bold;
+  margin-bottom: 8px;
+  }
+  
+  .e54{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+    margin-bottom: 20px;
+  }
+  
+  .e55{
+    
+    font-weight: bold;
+    background-color: rgb(57, 106, 196);
+    color: white;
+    border-radius: 15px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    
+    
+  }
+  
+  .e56{
+    text-align: center;
+    margin-bottom: 45px;
+  }
+  
+  .f51{
+    font-size: 30px;
+  }
+  
+  .f52{
+    margin-left: 5px;
+    color: rgb(107, 107, 107);
+    font-size: 16px;
+  }
+  
+  .f53{
+    color: green;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+  }
+  
+  .f54{
+    color: rgb(107, 107, 107);
+    font-size: 15px;
+  }
+  
+  .f55{
+    color: rgb(224, 38, 38);
+    font-size: 15px;
+  }
+  
+  .g50{
+    margin-top: 40px;
+  }
+  
+  .g51{
+   font-weight: bold;
+   font-size: 16px;
+  }
+  
+  .g52{
+    color: rgb(78, 78, 78);
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .g53{
+    margin-top: 6px;
+    width: 500px;
+    margin-bottom: 20px;
+  }
+  
+  .g55{
+  color: rgb(55, 137, 204);
+  cursor: pointer;
+  }
